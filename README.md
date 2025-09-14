@@ -17,5 +17,7 @@ In this final project, I applied skills taught throughout the course to create a
   * https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
   * https://automatetheboringstuff.com/
   * https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/  
+# Usage:
+  * The skills and Python programming sources. 
 # Contributions: 
 I welcome contributions to the program! Who knows? It might not run on the user's end. If you have any suggestions, bug reports, or any kind of feature requests, please contact me or submit a pull request.
