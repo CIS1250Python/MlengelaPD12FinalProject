@@ -11,7 +11,7 @@ In this final project, I applied skills taught throughout the course to create a
    * For any project ideas you're unsure about, send me a message, and we can talk about it. 
 3. IMPORTANT: If you use the other sources(such as online tutorials) to create your program, you must reference, in your comments, what you used. Include the name of the organization/person
    who authored the tutorial and provide a URL to the website or a reference to the book used. Your project should involve some modifications to this work and state what modifications you made.
-# Sources
+# Sources:
    * https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/ 
    * https://pynput.readthedocs.io/en/latest/ 
    * https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
