@@ -4,7 +4,7 @@ In this final project, I applied skills taught throughout the course to create a
 1. The program must incorporate the following:
    * Use the loops and conditionals (while loops and if/else, for example)
    * Use of exception handling when getting user input, where applicable.
-   * Ability to save and retrieve data using either through a GUI, the console, or other method.
+   * Ability to save and retrieve data using either a GUI, the console, or other method.
    * Ability to display information, either a GUI, a console, or other method.
    * Exhibit a reasonable level of complexity. It should be comparable to the last few programming assignments you have completed. Don't select too difficult a project!
    * Should, if possible, be related to your degree major.
@@ -12,12 +12,12 @@ In this final project, I applied skills taught throughout the course to create a
 3. IMPORTANT: If you use the other sources(such as online tutorials) to create your program, you must reference, in your comments, what you used. Include the name of the organization/person
    who authored the tutorial and provide a URL to the website or a reference to the book used. Your project should involve some modifications to this work and state what modifications you made.
 # Sources
-  * https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/
-  * https://pynput.readthedocs.io/en/latest/
-  * https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
-  * https://automatetheboringstuff.com/
-  * https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/  
+   * https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/
+   * https://pynput.readthedocs.io/en/latest/
+   * https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
+   * https://automatetheboringstuff.com/
+   * https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/  
 # Usage:
-  * The skills and Python programming sources. 
+   * The skills and Python programming sources. 
 # Contributions: 
 I welcome contributions to the program! Who knows? It might not run on the user's end. If you have any suggestions, bug reports, or any kind of feature requests, please contact me or submit a pull request.
