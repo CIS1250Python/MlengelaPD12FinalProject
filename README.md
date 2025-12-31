@@ -12,11 +12,11 @@ In this final project, I applied skills taught throughout the course to create a
 3. IMPORTANT: If you use the other sources(such as online tutorials) to create your program, you must reference, in your comments, what you used. Include the name of the organization/person
    who authored the tutorial and provide a URL to the website or a reference to the book used. Your project should involve some modifications to this work and state what modifications you made.
 # Sources:
-   * https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/ 
-   * https://pynput.readthedocs.io/en/latest/ 
-   * https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
-   * https://automatetheboringstuff.com/
-   * https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/  
+   * [Geeksforgeeks](https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/) 
+   * [Read](https://pynput.readthedocs.io/en/latest/) 
+   * [Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook)
+   * [The Automate The Boring Stuff](https://automatetheboringstuff.com/)
+   * [The Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 # Usage:
    * The skills and Python programming sources. 
 # Contributions: 
